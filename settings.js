@@ -40,11 +40,11 @@ global.vcardowner = ['918505038661'] //ur owner number
 global.ownername = "PRADEEP KUMAWAT" //ur owner name
 global.ytname = "YT: DJ PRADEEP KUMAWAT" //ur yt chanel name
 global.socialm = "GitHub: ITSPRADEEP_KMT" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "INDIA, RAJASTHAN, JAIPUR" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['918505038661']
-global.ownertag = '9105038661' //ur tag number
+global.ownertag = '918505038661' //ur tag number
 global.botnumber = '918505038661' //Add your Bot Number For Log
 global.botname = 'PRADEEP KUMAWAT  ' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
@@ -53,13 +53,13 @@ global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.packname = "PRADEEP KUMAWAT" //ur sticker watermark packname
+global.author = "PRADEEP KUMAWAT" //ur sticker watermark author
+global.footer = "® PRADEEP KUMAWAT"
+global.aliveimg ="https://telegra.ph/file/ .jpg"
+global.allmenuimg ="https://telegra.ph/file/.jpg"
+global.welcomeimg= "https://telegra.ph/file/ .jpg"
+global.gbyeimg = "https://telegra.ph/file/ .jpg"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['918505038661'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -85,7 +85,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [█ ✪ █▓▓▓▓ 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 👋 𝘋𝘦𝘢𝘳 𝘧𝘳𝘪𝘦𝘯𝘥𝘴 🤝𝘪𝘯 𝘰𝘶𝘳 𝘧𝘢𝘮𝘪𝘭𝘺 𝘨𝘳𝘰𝘶𝘱 😍💖 ▓▓▓▓▓█ ✪ █]
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
