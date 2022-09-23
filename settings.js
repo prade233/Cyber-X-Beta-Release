@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['918505038661'] //ur owner number
-global.ownername = "PRADEEP KUMAWAT" //ur owner name
+global.ownername = "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙" //ur owner name
 global.ytname = "YT: DJ PRADEEP KUMAWAT" //ur yt chanel name
 global.socialm = "GitHub: ITSPRADEEP_KMT" //ur github or insta name
 global.location = "INDIA, RAJASTHAN, JAIPUR" //ur location
@@ -46,27 +46,27 @@ global.location = "INDIA, RAJASTHAN, JAIPUR" //ur location
 global.owner = ['918505038661']
 global.ownertag = '918505038661' //ur tag number
 global.botnumber = '918505038661' //Add your Bot Number For Log
-global.botname = 'PRADEEP KUMAWAT  ' //ur bot name
+global.botname = '┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "PRADEEP KUMAWAT" //ur sticker watermark packname
-global.author = "PRADEEP KUMAWAT" //ur sticker watermark author
-global.footer = "® PRADEEP KUMAWAT"
-global.aliveimg ="https://telegra.ph/file/ .jpg"
-global.allmenuimg ="https://telegra.ph/file/.jpg"
-global.welcomeimg= "https://telegra.ph/file/ .jpg"
-global.gbyeimg = "https://telegra.ph/file/ .jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.packname = "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙" //ur sticker watermark packname
+global.author = "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙" //ur sticker watermark author
+global.footer = "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙"
+global.aliveimg =""
+global.allmenuimg =""
+global.welcomeimg= ""
+global.gbyeimg = ""
+global.alivemsg = ┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙"
 
 //BOT MEDIAS
-global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur error pic
-global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
+global.thum = fs.readFileSync("") //ur thumb pic
+global.log0 = fs.readFileSync("") //ur logo pic
+global.err4r = fs.readFileSync("") //ur error pic
+global.thumb = fs.readFileSync("") //ur thumb pic
 
 //DATA BASED
 
